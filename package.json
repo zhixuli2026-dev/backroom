@@ -1,0 +1,32 @@
+{
+  "name": "backroom",
+  "version": "1.0.0",
+  "description": "后室游戏 - 基于 Three.js 的 3D 恐怖探索游戏",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhixuli2026-dev/backroom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zhixuli2026-dev/backroom/issues"
+  },
+  "homepage": "https://github.com/zhixuli2026-dev/backroom#readme",
+  "devDependencies": {
+    "@types/node": "^25.9.3",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.16"
+  },
+  "dependencies": {
+    "@types/three": "^0.184.1",
+    "three": "^0.184.0"
+  }
+}
